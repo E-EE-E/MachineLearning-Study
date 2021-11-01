@@ -15,6 +15,8 @@
 - 최종 순위는 2021.12.21일 기준 leaderboard 순위다.
 
 #### 참고자료
+참고자료의 3,4는 대회에서 제공한 Template이다.  
+Template 그대로 카피해서 조금씩 수정하여 제출해도 된다.
 1. [게임 세부내용](https://www.kaggle.com/c/lux-ai-2021/overview/lux-ai-specifications)
 2. [GitHub-게임다운](https://github.com/Lux-AI-Challenge/Lux-Design-2021)
 3. [Kaggle-NoteBook-Tutorial](https://www.kaggle.com/stonet2000/lux-ai-season-1-jupyter-notebook-tutorial)
@@ -24,7 +26,6 @@
 7. [Lux - YouTube](https://www.youtube.com/channel/UCK4aJwBPG6nME0yLNUi3qQQ/videos)
 
 #### 환경설정
-참고자료의 3,4는 대회에서 제공한 Template으로, 그대로 카피해서 조금씩 수정하여 제출해도 된다.
 1. [NodeJS v12 다운로드](https://nodejs.org/en/download/)
 2. [Docker 다운로드](https://docs.docker.com/get-docker/)
 3. [Docker file](https://github.com/Lux-AI-Challenge/Lux-Design-2021/blob/master/Dockerfile)
