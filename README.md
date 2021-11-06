@@ -31,6 +31,8 @@ Template 그대로 카피해서 조금씩 수정하여 제출해도 된다.
 3. [Docker file](https://github.com/Lux-AI-Challenge/Lux-Design-2021/blob/master/Dockerfile)
 4. [ReplayViewer-Web-Upload](https://2021vis.lux-ai.org/)
 5. [ReplayViewer-Git-Download](https://github.com/Lux-AI-Challenge/Lux-Viewer-2021)
+
+
  
 ### ToDo List
 - [x] 개발환경 설치 : VScode, Python, NodeJS
@@ -44,3 +46,17 @@ Template 그대로 카피해서 조금씩 수정하여 제출해도 된다.
 - [ ] LUX leaderBoard 점수확인
 - [ ] LUX 결과 피드백 및 개선사항 정의
 - [ ] LUX 결과 개선 결과 확인 및 피드백 반복
+
+### GAMERULL
+맵 : 1
+
+윈도우 편의기능 설정
+- 윈도우 방향키 (윈도우 > 설정 > )
+- 마우스 창 맨위 찾고 흔들 떄 최소화 방지 (GPEDIT.msc)
+- [참고](https://jsix.tistory.com/1105)
+
+
+### GitHub 환경설정
+1. GIT 다운로드 > 설치 중 vscode 사용 설정 체크
+2. VScode에서 git > github로 로그인 > 초기화 클릭 > 레포지토리 clone
+3. Ctrl+Shilft+P > git clone (엔터) > 깃허브에서 불러오기
