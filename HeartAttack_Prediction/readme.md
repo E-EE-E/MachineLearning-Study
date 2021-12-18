@@ -1,0 +1,1 @@
+https://dacon.io/competitions/official/235848/overview/description
