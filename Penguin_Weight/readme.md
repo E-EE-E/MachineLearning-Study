@@ -31,3 +31,18 @@
 ## 3. sample_submissoin.csv : 제출 양식
     - id : 샘플 아이디
     - Body Mass (g) : 펭귄의 몸무게를 나타내는 숫자 (g)
+
+```python
+# VB select 역할 = apply
+data["ln"] = data["value"].apply(lambda x: math.log(x / data.iloc[-1]))
+# 
+# VB where 역할 = loc 으로 대체
+# loc 인수는 boolean series 만 넣어주면 됨, 무명함수로 row 넣을 수 있음
+#
+# loc 문법 
+ df.loc[행idx Series,열이름 Series]
+# 행idx Series 의 자료형이 blean이면 True인 행만 뽑아줌, 
+# 행idx Series 의 자료형이 정수형이면 해당 idx의 행만 뽑아줌
+# 열이름이 자료형이 문자열이면, 해당 이름의 열만 뽑아줌 => Serise로 반환
+# 열이름이 list이면 해당 목록의 열만 뽑아줌 => DataFrame으로 반환
+```
