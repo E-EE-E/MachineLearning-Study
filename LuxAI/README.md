@@ -55,8 +55,17 @@ Template 그대로 카피해서 조금씩 수정하여 제출해도 된다.
 - 마우스 창 맨위 찾고 흔들 떄 최소화 방지 (GPEDIT.msc)
 - [참고](https://jsix.tistory.com/1105)
 
+### GAMERULL
+맵 : 1
+
+윈도우 편의기능 설정
+- 윈도우 방향키 (윈도우 > 설정 > )
+- 마우스 창 맨위 찾고 흔들 떄 최소화 방지 (GPEDIT.msc)
+- [참고](https://jsix.tistory.com/1105)
+
 
 ### GitHub 환경설정
 1. GIT 다운로드 > 설치 중 vscode 사용 설정 체크
 2. VScode에서 git > github로 로그인 > 초기화 클릭 > 레포지토리 clone
 3. Ctrl+Shilft+P > git clone (엔터) > 깃허브에서 불러오기
+4. 분기 적용하기 : Switch Branch로 Destination Branch 진입 > VSCode-소스제어-설정-분기-분기병합
